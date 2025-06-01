@@ -3,7 +3,7 @@
 #include <DHT.h>
 #include <OneWire.h>
 #include <DallasTemperature.h>
-#include <Servo.h> // para controlar el servo
+#include <Servo.h> 
 
 // pines de sensores y actuadores
 #define DHTPIN 2

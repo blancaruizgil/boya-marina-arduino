@@ -17,7 +17,7 @@
       "id": "dht1",
       "top": -258.9,
       "left": 23.4,
-      "attrs": { "temperature": "-29.6" }
+      "attrs": { "temperature": "49.7", "humidity": "82.5" }
     },
     {
       "type": "wokwi-photoresistor-sensor",
