@@ -1,6 +1,8 @@
 # boya-marina-arduino
 Boya marina con sensores climáticos de medicion, control y actuacion con Wokwi.
 
+![Montaje en Wokwi](./Captura_Wokwi.png)
+
 ## ¿Qué hace el sistema?
 - Mide la temperatura y humedad del aire con un sensor DHT22.
 - Mide la temperatura de la batería un un DS18B20.
@@ -47,3 +49,4 @@ En este proyecto la boya no mide solo los parámetros, si no que decide si calen
 ## Visualización en pantalla
 
 Muestra Temperatura y Humedad en la fila de arriba y Luz Ambiental y Temeperatura de la batería en la fila de abajo.
+
